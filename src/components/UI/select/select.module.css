@@ -1,0 +1,15 @@
+select {
+    margin: 20px auto 20px 10px ;
+    width: 140px;
+    height: 35px;
+    padding: 4px;
+    border-radius:4px;
+    border: 1px solid teal;
+    background: #fff;
+    outline: none;
+    display: block;
+    -webkit-appearance:none;
+    -moz-appearance: none;
+    appearance: none;
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.btn {
+    padding: 5px 15px;
+    color: teal;
+    font: 16px sans-serif bold;
+    background: transparent;
+    border: 1px solid teal;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background: teal;
+    color: white;
+}

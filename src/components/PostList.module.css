@@ -1,0 +1,16 @@
+.post_name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 20px auto;
+    padding-bottom: 20px;
+    width: 60%;
+    text-align: center;
+    border-bottom: 1px solid #b0b0b0;
+}
+
+.posts_list {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
